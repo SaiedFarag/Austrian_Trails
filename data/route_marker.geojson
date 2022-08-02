@@ -1,0 +1,2180 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-01-27T12:12:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2827946672",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "fixme": "position added from memory, adjust using GPS data",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "ÖTK-Wegpunkt Geroldsbank",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2904391,
+          48.2447062
+        ]
+      },
+      "id": "node/2827946672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2827980591",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Schwarzenbergpark/Allee",
+        "operator": "ÖTK-Klosterneuburg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2652299,
+          48.2478674
+        ]
+      },
+      "id": "node/2827980591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828579030",
+        "description": "weisses Blechschild an hoelzernem Leitungsmast",
+        "description:en": "white metal board attached to wooden electricity pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "ÖTK-Wegpunkt Pötzleinsdorfer Schlosspark",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.294105,
+          48.2426997
+        ]
+      },
+      "id": "node/2828579030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828579031",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Kräuterbach",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2828027,
+          48.2458034
+        ]
+      },
+      "id": "node/2828579031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828579032",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Quellengraben",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2830602,
+          48.2474769
+        ]
+      },
+      "id": "node/2828579032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828579033",
+        "description": "zwei weisse Blechschilder an Baum",
+        "description:en": "two white metal boards on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "ÖTK-Wegpunkt Quellengraben",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2827289,
+          48.2480588
+        ]
+      },
+      "id": "node/2828579033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828622782",
+        "description": "drei weisse Metallschilder an hoelzernem Strommast",
+        "description:en": "three white metal boards on wooden power pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Weidlingbach/Reitergassl",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2649285,
+          48.2670733
+        ]
+      },
+      "id": "node/2828622782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828622783",
+        "description": "weisses Blechschild an Brueckengelaender",
+        "description:en": "white metal board on bridge railing",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Weidlingbach/Reitergassl",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2649108,
+          48.267005
+        ]
+      },
+      "id": "node/2828622783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829357377",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Salmannsdorf/Sommerhaidenweg",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2885439,
+          48.2508433
+        ]
+      },
+      "id": "node/2829357377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2832326067",
+        "description": "zwei Blechschilder an Baum",
+        "description:en": "two metal boards on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "ÖTK-Wegpunkt Gallitzinberg",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2757547,
+          48.2177315
+        ]
+      },
+      "id": "node/2832326067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2832951085",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2957744,
+          48.2267333
+        ]
+      },
+      "id": "node/2832951085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2832951086",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2905081,
+          48.2251212
+        ]
+      },
+      "id": "node/2832951086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2832951087",
+        "description": "weisses Blechschild an hoelzernem Strommasten",
+        "description:en": "white metal board on wooden power pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.283137,
+          48.2255315
+        ]
+      },
+      "id": "node/2832951087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833069992",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Jubiläumswarte",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2674502,
+          48.2214372
+        ]
+      },
+      "id": "node/2833069992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833069994",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2632899,
+          48.2182686
+        ]
+      },
+      "id": "node/2833069994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833069998",
+        "description": "gelbes Blechschild an Strommasten",
+        "description:en": "yellow metal board on power poe",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Satzberg",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2616132,
+          48.2180052
+        ]
+      },
+      "id": "node/2833069998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833070006",
+        "description": "weisses Blechschild an Laternenmast",
+        "description:en": "white metal board on lamp post",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "ÖTK-Wegpunkt Hütteldorf/Rosental",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2608958,
+          48.2019602
+        ]
+      },
+      "id": "node/2833070006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833217766",
+        "description": "weisses Blechschild an hoelzernem Strommast",
+        "description:en": "white metal board on wooden power pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2713178,
+          48.2163874
+        ]
+      },
+      "id": "node/2833217766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833217768",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "withe metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2718346,
+          48.2166492
+        ]
+      },
+      "id": "node/2833217768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2836267627",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Salmannsdorf",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2844512,
+          48.253601
+        ]
+      },
+      "id": "node/2836267627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2836333072",
+        "description": "drei weisse Blechschilder an Baum",
+        "description:en": "three white metal boards on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Hameau Ost",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2703584,
+          48.2552183
+        ]
+      },
+      "id": "node/2836333072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2836374097",
+        "description": "drei weisse Blechschilder an Baeumen",
+        "description:en": "three white metal boards on trees",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Mittereck",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2492466,
+          48.2522115
+        ]
+      },
+      "id": "node/2836374097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2836374099",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Rotes Kreuz/Exelberg",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2456102,
+          48.2500259
+        ]
+      },
+      "id": "node/2836374099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2836374100",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Rotes Kreuz/Exelberg",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2451065,
+          48.24987
+        ]
+      },
+      "id": "node/2836374100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838873529",
+        "description": "weisses Blechschild an Baumstumpf",
+        "description:en": "white metal board on tree stump",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2320424,
+          48.2477382
+        ]
+      },
+      "id": "node/2838873529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838873532",
+        "description": "weisses Blechschild an Holzpfosten",
+        "description:en": "white metal board on guidepost",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Sophienalpe",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2308346,
+          48.246637
+        ]
+      },
+      "id": "node/2838873532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838873533",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.231912,
+          48.2480051
+        ]
+      },
+      "id": "node/2838873533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841073967",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.294635,
+          48.2648674
+        ]
+      },
+      "id": "node/2841073967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841101287",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2961086,
+          48.2640429
+        ]
+      },
+      "id": "node/2841101287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841101288",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Jägerhaus",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3021888,
+          48.2622708
+        ]
+      },
+      "id": "node/2841101288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841101289",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Jägerhaus",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3021833,
+          48.2623277
+        ]
+      },
+      "id": "node/2841101289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841101290",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Jägerhaus",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3022143,
+          48.2623459
+        ]
+      },
+      "id": "node/2841101290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841101293",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3093677,
+          48.2571564
+        ]
+      },
+      "id": "node/2841101293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841221400",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3025031,
+          48.2696478
+        ]
+      },
+      "id": "node/2841221400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841266686",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2949766,
+          48.2638719
+        ]
+      },
+      "id": "node/2841266686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845378519",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3458687,
+          48.2777189
+        ]
+      },
+      "id": "node/2845378519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845393716",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.334286,
+          48.2812017
+        ]
+      },
+      "id": "node/2845393716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846150979",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3013181,
+          48.272642
+        ]
+      },
+      "id": "node/2846150979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846150980",
+        "description": "weisses Blechschild an Holzpfosten",
+        "description:en": "white metal board on wooden pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3001496,
+          48.272809
+        ]
+      },
+      "id": "node/2846150980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846150981",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Agnesbründl",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2976756,
+          48.2732468
+        ]
+      },
+      "id": "node/2846150981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846311735",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Hermannskogel",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2915039,
+          48.269917
+        ]
+      },
+      "id": "node/2846311735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846311737",
+        "description": "weisses Blechschild an Holzpfosten",
+        "description:en": "white metal board on wooden pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2915265,
+          48.2699175
+        ]
+      },
+      "id": "node/2846311737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849239895",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Schottenhof",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2584279,
+          48.2304928
+        ]
+      },
+      "id": "node/2849239895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849239896",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Schottenhof",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2584411,
+          48.2304104
+        ]
+      },
+      "id": "node/2849239896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849239897",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.257611,
+          48.2304223
+        ]
+      },
+      "id": "node/2849239897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849239898",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.251882,
+          48.2214793
+        ]
+      },
+      "id": "node/2849239898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849239899",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Moosgraben",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2492312,
+          48.2190332
+        ]
+      },
+      "id": "node/2849239899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849239900",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Hütteldorf/Campingplatz",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2496368,
+          48.2145798
+        ]
+      },
+      "id": "node/2849239900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849244701",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Knödelhüttenstraße",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2437453,
+          48.2178978
+        ]
+      },
+      "id": "node/2849244701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483978",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Hadersdorf",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2232289,
+          48.2137561
+        ]
+      },
+      "id": "node/2849483978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483979",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2222338,
+          48.2120644
+        ]
+      },
+      "id": "node/2849483979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483980",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Hadersdorf Bhf.",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2217295,
+          48.2109088
+        ]
+      },
+      "id": "node/2849483980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483981",
+        "description": "weisses Blechschild an Laternenpfahl",
+        "description:en": "white metal board on lamp pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2219982,
+          48.2144869
+        ]
+      },
+      "id": "node/2849483981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483982",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Türkensteine",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.217427,
+          48.2207493
+        ]
+      },
+      "id": "node/2849483982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483990",
+        "description": "weisses Blechschild an Holzpfosten",
+        "description:en": "white metal board on wooden pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2101401,
+          48.2246873
+        ]
+      },
+      "id": "node/2849483990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483991",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2096629,
+          48.2254702
+        ]
+      },
+      "id": "node/2849483991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483992",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2096099,
+          48.2254732
+        ]
+      },
+      "id": "node/2849483992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483993",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board n metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Vorderhainbach",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.199762,
+          48.2309254
+        ]
+      },
+      "id": "node/2849483993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849483994",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Vorderhainbach",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2001154,
+          48.2304442
+        ]
+      },
+      "id": "node/2849483994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849898256",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Untermauerbach",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1936661,
+          48.2333499
+        ]
+      },
+      "id": "node/2849898256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849898258",
+        "description": "weisses Blechschild an Strommast",
+        "description:en": "white metal board on utility pole",
+        "hiiki": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1940294,
+          48.2445246
+        ]
+      },
+      "id": "node/2849898258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849898259",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1940039,
+          48.2445525
+        ]
+      },
+      "id": "node/2849898259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2850060051",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2006486,
+          48.2540827
+        ]
+      },
+      "id": "node/2850060051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2850060052",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2002155,
+          48.2581517
+        ]
+      },
+      "id": "node/2850060052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2850060053",
+        "description": "weisses Blechschild an Holzpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.201477,
+          48.267773
+        ]
+      },
+      "id": "node/2850060053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2850060058",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2027424,
+          48.269682
+        ]
+      },
+      "id": "node/2850060058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2853592954",
+        "description": "weisses Blechschild an Holzpfosten",
+        "description:en": "white metal board on wooden pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Nußdorf/Bahnhof",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36743,
+          48.2602939
+        ]
+      },
+      "id": "node/2853592954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2854361008",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Franzenshöhe",
+        "operator": "ÖTK-Klosterneuburg;Freunde des Kahlenbergerdorfes",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3438484,
+          48.2718638
+        ]
+      },
+      "id": "node/2854361008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2854361013",
+        "description": "weisses Blechschild an Strommast",
+        "description:en": "white metal board on wooden utility pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3391526,
+          48.2698964
+        ]
+      },
+      "id": "node/2854361013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859362338",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg; Freunde des Kahlenbergerdorfes",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3520259,
+          48.2691743
+        ]
+      },
+      "id": "node/2859362338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859362340",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg;Freunde des Kahlenbergerdorfes",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3439344,
+          48.270319
+        ]
+      },
+      "id": "node/2859362340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859402473",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg; Freunde des Kahlenbergerdorfes",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3443449,
+          48.2754971
+        ]
+      },
+      "id": "node/2859402473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859402474",
+        "description": "weisses Blechschild an Mauer",
+        "description:en": "white metal board on wall",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3297653,
+          48.2937343
+        ]
+      },
+      "id": "node/2859402474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859402475",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.329806,
+          48.2942944
+        ]
+      },
+      "id": "node/2859402475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859402478",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3223235,
+          48.2930936
+        ]
+      },
+      "id": "node/2859402478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859402481",
+        "description": "Zur Stefaniewarte",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "Naturfreunde Doebling",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3291266,
+          48.2772241
+        ]
+      },
+      "id": "node/2859402481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859402482",
+        "description": "Zur Stefaniewarte",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "Naturfreunde Doebling",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3296633,
+          48.2770697
+        ]
+      },
+      "id": "node/2859402482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2861540156",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Allerheiligenberg",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1851913,
+          48.2479444
+        ]
+      },
+      "id": "node/2861540156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2881932080",
+        "information": "route_marker",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0237578,
+          46.7837196
+        ]
+      },
+      "id": "node/2881932080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2881932088",
+        "information": "route_marker",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0086945,
+          46.787705
+        ]
+      },
+      "id": "node/2881932088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2881932100",
+        "information": "route_marker",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0072407,
+          46.7885459
+        ]
+      },
+      "id": "node/2881932100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2886478780",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2386935,
+          48.2399617
+        ]
+      },
+      "id": "node/2886478780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890605750",
+        "description": "weisses Blechschild an Laternenpfahl",
+        "description:en": "white metal board on lamp pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Hütteldorf/Endstation Linie 49",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2557607,
+          48.2032088
+        ]
+      },
+      "id": "node/2890605750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890605751",
+        "description": "weisses Blechschild an Laternenpfahl",
+        "description:en": "white metal board on lamppole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Hütteldorf/Campingplatz",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2494675,
+          48.2144041
+        ]
+      },
+      "id": "node/2890605751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890680320",
+        "description": "zwei weisse Blechschilder an Baum",
+        "description:en": "two white metal boards on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Hohe Wand",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2123877,
+          48.2356583
+        ]
+      },
+      "id": "node/2890680320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890683081",
+        "description": "zwei weisse Blechschilder an Baum",
+        "description:en": "two white metal boards on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Jägerwaldsiedlung",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2385975,
+          48.2206663
+        ]
+      },
+      "id": "node/2890683081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890683082",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Jägerwaldsiedlung",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2386728,
+          48.221096
+        ]
+      },
+      "id": "node/2890683082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890683086",
+        "description": "weisses Blechschild an Holzpfosten",
+        "description:en": "white metal board on wooden pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Franz-Karl-Fernsicht",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2243124,
+          48.2414389
+        ]
+      },
+      "id": "node/2890683086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890683087",
+        "description": "drei weisse Blechschilder an Baum",
+        "description:en": "three white metal boards on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Franz-Karl-Fernsicht",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2242961,
+          48.2414605
+        ]
+      },
+      "id": "node/2890683087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890683088",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Mostalm",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2149229,
+          48.2388335
+        ]
+      },
+      "id": "node/2890683088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890683090",
+        "description": "weisses Blechschild an Strommast",
+        "description:en": "white metal board on wooden utility pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Mostalm",
+        "operator": "Organisation der internationalen Wienerwald-Wanderung; Stadtgemeinde Wien",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2145344,
+          48.2387806
+        ]
+      },
+      "id": "node/2890683090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2890683091",
+        "description": "Metallschild an Strommast",
+        "description:en": "metal board on utility pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "name": "Mostalm",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2145242,
+          48.2387806
+        ]
+      },
+      "id": "node/2890683091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2891036093",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2193283,
+          48.2122836
+        ]
+      },
+      "id": "node/2891036093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2892730744",
+        "description": "weisses Blechschild an Holzzaun",
+        "description:en": "white metal board on wooden fence",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "Organisation der Internationalen Wienerwald-Wanderung",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1969283,
+          48.2298601
+        ]
+      },
+      "id": "node/2892730744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2892730745",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1969283,
+          48.2298877
+        ]
+      },
+      "id": "node/2892730745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2899764459",
+        "description": "gelbes Blechschild an Laternenmast",
+        "description:en": "yellow metal board on lamp pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3286154,
+          48.295331
+        ]
+      },
+      "id": "node/2899764459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2900281629",
+        "description": "weisses Blechschild an Metallpfosten",
+        "description:en": "white metal board on metal pole",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3114142,
+          48.290493
+        ]
+      },
+      "id": "node/2900281629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2902238806",
+        "description": "weisses Blechschild an Baum",
+        "description:en": "white metal board on tree",
+        "hiking": "yes",
+        "information": "route_marker",
+        "operator": "ÖTK-Klosterneuburg",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2197713,
+          48.2824312
+        ]
+      },
+      "id": "node/2902238806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3046191410",
+        "addr:city": "Gänserndorf",
+        "addr:postcode": "2230",
+        "information": "route_marker",
+        "name": "Infotafel - ÖMV Erlebnisradweg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7320433,
+          48.3405953
+        ]
+      },
+      "id": "node/3046191410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4334548494",
+        "information": "route_marker",
+        "note": "this route marker is a yellow arrow (as usually found on guideposts) attached to a stone",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.353917,
+          47.0698486
+        ]
+      },
+      "id": "node/4334548494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5746063087",
+        "information": "route_marker",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2606682,
+          47.0443149
+        ]
+      },
+      "id": "node/5746063087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5746063088",
+        "information": "route_marker",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2621904,
+          47.0444649
+        ]
+      },
+      "id": "node/5746063088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6201891442",
+        "description": "Österr.Weitwanderweg 08,Waldviertel - Gesäuse Drautal",
+        "information": "route_marker",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6659327,
+          47.1763327
+        ]
+      },
+      "id": "node/6201891442"
+    }
+  ]
+}
